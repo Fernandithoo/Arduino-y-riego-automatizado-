@@ -17,6 +17,9 @@ Módulo relé (para controlar la bomba)
 Bomba de agua (12V o 5V según tu relé)
 Fuente de alimentación para la bomba
 Cables jumper
+
+
+
 🔌 Conexiones:
 Sensor DHT11/DHT22:
 VCC → 5V Arduino
@@ -31,6 +34,9 @@ NO → Positivo de la fuente
 Bomba:
 Negativo → GND de la fuente
 Positivo → a través del relé
+
+
+
 💻 Instalación:
 Instala las librerías Python necesarias:
 pip install pyserial
