@@ -1,3 +1,4 @@
+[código_python.py](https://github.com/user-attachments/files/23614338/codigo_python.py)
 # Arduino-y-riego-automatizado
 import serial
 import time
