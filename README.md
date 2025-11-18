@@ -4,7 +4,7 @@ Este proyecto controla un sistema de riego automático usando Arduino y Python. 
 
 ## Carpeta de códigos
 
-Se añadieron los archivos de ejemplo en la carpeta [`codigos`](./codigos):
+Se añadieron los archivos, los encontrarás arriba 
 
 - [`arduino.py`](./codigos/arduino.py): Script principal de monitoreo y automatización del riego usando comunicación serial con Arduino.
 - [`codigo_python.py`](./codigos/codigo_python.py): (Descripción breve sobre su propósito aquí).
