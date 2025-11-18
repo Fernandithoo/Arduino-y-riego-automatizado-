@@ -1,3 +1,4 @@
+[arduino.py](https://github.com/user-attachments/files/23614384/arduino.py)
 [código_python.py](https://github.com/user-attachments/files/23614338/codigo_python.py)
 # Arduino-y-riego-automatizado
 import serial
