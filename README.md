@@ -8,9 +8,9 @@ Este proyecto **controla automáticamente el riego** de plantas usando **Arduino
 
 ## 📂 Carpeta de códigos
 
-Encontrarás los archivos principales arriba ⬆️ en la carpeta `/codigos/`:
+Encontrarás los archivos principales arriba ⬆️ 
 
-- 🟦 [`arduino.py`](./codigos/arduino.py): Script principal de monitoreo y automatización del riego usando comunicación **serial** con Arduino.
+- 🟦 [`arduino.py`](./codiggosarduino.py): Script principal de monitoreo y automatización del riego usando comunicación **serial** con Arduino.
 - 🟩 [`codigo_python.py`](./codigos/codigo_python.py): Controla el sistema de riego automatizado con Arduino y Python. Utiliza comunicación serial entre ambos.
 
 ---
